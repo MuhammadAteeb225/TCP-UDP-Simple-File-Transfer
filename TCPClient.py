@@ -1,3 +1,4 @@
+# Prepared by Muhammad Ateeb
 from socket import *
 serverIP = '10.7.33.18'
 serverPort = 12000
